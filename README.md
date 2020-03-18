@@ -1,5 +1,5 @@
-# Portf-lio1.0---Rocketseat
-Projeto criado no módulo 1 do curso da LaunchBase da Rocketseat
+# Portfólio1.0 - Curso LaunchBase Rocketseat
+## Projeto criado no módulo 1 do curso da LaunchBase da Rocketseat
 
 
 -> Linguagens utilizadas: HTML, JavaScript e CSS
